@@ -1,0 +1,6 @@
+{
+    "name": "websocket_demo",
+    "dependencies": {
+        "websocketdjs": "0.0.2"
+    }
+}
